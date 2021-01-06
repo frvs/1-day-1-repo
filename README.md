@@ -13,8 +13,8 @@ A ideia é todo dia ler uma documentação e criar um repositório para aprender
       - Desenvolva uma página com CSS Grid e CSS Flexbox
 ```
 
-Tópico: CSS Grid e CSS Flexbox
-Repositório: [frvs/react-css-grid-flexbox](https://github.com/frvs/react-css-grid-flexbox)
+Tópico: CSS Grid e CSS Flexbox  
+Repositório: [frvs/react-css-grid-flexbox](https://github.com/frvs/react-css-grid-flexbox)  
 
 ## Dia 2
 
