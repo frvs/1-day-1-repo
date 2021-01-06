@@ -14,7 +14,7 @@ A ideia é todo dia ler uma documentação e criar um repositório para aprender
 ```
 
 Tópico: CSS Grid e CSS Flexbox
-Repositório: 
+Repositório: [frvs/react-css-grid-flexbox](https://github.com/frvs/react-css-grid-flexbox)
 
 ## Dia 2
 
