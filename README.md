@@ -26,8 +26,8 @@ Repositório: [frvs/react-css-grid-flexbox](https://github.com/frvs/react-css-gr
       - Aprenda as novas features do javascript (ECMA Script 6+)
 ```
 
-Tópico: Javascript - básicos
-Repositório: 
+Tópico: Javascript - básicos  
+Repositório: [frvs/javascript-basics](https://github.com/frvs/javascript-basics)  
 
 ## Dia 3
 
